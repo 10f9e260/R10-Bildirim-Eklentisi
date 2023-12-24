@@ -32,7 +32,10 @@ Projeye katkıda bulunmak istiyorsanız:
 
 Burada projenin geliştirilmesi için yapılması gerekenleri listeyebilirsiniz. Destek vermek isteyen geliştiriciler bu listeye göz atabilir ve katkıda bulunabilirler:
 
-- [ ] Eklentinin kullanıcı arayüzünün geliştirilmesi.
+- [x] Icon
+- [x] Sekmeler arasında r10.net açıksa istek göndermeyecek
+- [ ] Ses Açma/Kapatma özelliği
+- [ ] Birden fazla bildirim sesi
 
 ## Lisans
 
