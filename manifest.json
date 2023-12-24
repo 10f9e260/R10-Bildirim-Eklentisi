@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "R10 Bildirim",
+  "version": "1.0",
+  "description": "",
+  "background": {
+    "page": "background.html",
+    "persistent": false
+  },
+  "permissions": [
+    "*://*.r10.net/", "cookies", "alarms", "tabs"
+  ],
+  "browser_action": {
+    "default_icon": "assets/images/icon.png"
+  },
+  "web_accessible_resources": ["assets/sounds/iphone.mp3"],
+  "icons": {}
+}
