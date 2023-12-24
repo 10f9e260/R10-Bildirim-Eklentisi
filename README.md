@@ -2,6 +2,8 @@
 
 Bu eklenti, R10.net kullanıcılarının yeni bildirimleri anında alabilmelerini sağlar ve kullanımı kolay bir arayüz sunar.
 
+![Görünüm](https://github.com/10f9e260/R10-Bildirim-Eklentisi/blob/main/interface_screenshot.png)
+
 ## Kurulum
 
 Eklentiyi kullanmak için şu adımları takip edin:
